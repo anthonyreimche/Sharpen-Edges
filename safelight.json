@@ -1,7 +1,7 @@
 {
   "id": "sharpen-edges",
   "name": "Sharpen Edges",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Edge-aware sharpening in Lab: each pass pulls a pixel toward its neighbours along the edge direction it sits on, to firm up soft edges without halos. Set the iterations and the amount, and choose luminance only or all three Lab channels.",
   "author": "Anthony Reimche",
   "main": "dist/index.js",

@@ -1,7 +1,7 @@
 {
   "name": "safelight-sharpen-edges",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sharpen Edges extension for Safelight: multi-pass edge sharpening in Lab.",
   "type": "module",
   "scripts": {
